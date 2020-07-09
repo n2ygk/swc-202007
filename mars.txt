@@ -7,3 +7,7 @@ Let's go to Mars.
 I added this line from github.com
 
 I added this line locally
+
+Pretend I had a collaborator.
+
+Add another line locally.
